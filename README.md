@@ -1,19 +1,28 @@
-# The Pre Academy Program
+# `fabzero` Program (formerly Pre Academy)
 
- The Pre Academy is a short crash course under designed to fill knowledge gaps and aimed to prepare students and labs to succeed and improve their experience during [Fab Academy](http://fabacademy.org). It's **everything you should know before starting Fab Academy**. Topics covered include repository management, project documentation, lab preparation, fundamental electronics and programming, design thinking and machine operation.
+This repository hosts the `fabzero` official program. It was originally designed to fill knowledge gaps and aimed to prepare students to succeed and improve their experience during [Fab Academy](http://fabacademy.org). Over the years, it has been growing into a multidisciplinary program, where a customized learning path is designed and crafted to the specific needs of the group.
 
-# First iteration. Pre Academy 2016
-The first official cycle of Pre Academy was tutored by Luciano Betoldi and Francisco Sanchez during October and November 2015. The course was taught in the state of Kerala, South India. There were 8 participants in Kochi and 14 in Thiruvananthapuram. The program sillabus and student work was [documented here](http://thebeachlab.github.io/). Successful students obtained a certificate issued by Fab Academy X.
+## What's new
 
-# Second iteration. Pre Academy 2017
-This repository hosts the second and current iteration of Pre Academy, which incorporates improved documentation and lessons learned during the follow-up of the pre academy students participating in Fab Academy. Some changes include:
 * Adding more design thinking and design principles
-* Increasing time spent on documentation tools and repository management
+* Increasing documentation tools and repository management
 * Increasing lessons in CAD (2D, 3D, parametric, advanced and simulation)
-* It is based in commonly used [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software)
-* Removing topics that are common with fab academy (composites, molding and casting, electronics production, etc.). It was found that incorporating this subjects paradoxically reduced the attention of the student when taking the Fab Academy program.
+* Based in commonly used [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software)
+* Removing some topics that are common with Fab Academy
+* `new` Topics related to fab lab management
+* `new` Topics to encourage gender equality and respectful workplace
 
-[Go to Pre Academy 2017 schedule and course documentation](summary.md)    
-[Go to Pre Academy 2017 students archive](http://archive.fabacademy.org/fabacademyx/preacademy2017/)
+## Let's get started!
 
-If you have questions or inquiries about this second iteration content please do not hesitate to raise an issue or contact me (Francisco): hola [at] beachlab [dot] org. Happy to help!
+[:point_right: Click here to go to `fabzero` official curriculum](program/summary.md)
+
+[:point_right: Click here to browse the participants archive of past experiences](program/cycles.md)
+
+## Questions and comments
+
+This repository is maintained and updated by Francisco Sanchez and Sibu Saman. If you have questions or inquiries about the course content please do not hesitate to raise an issue or contact me francisco [at] fabfoundation [dot] org. Happy to help!
+
+This repository keeps a mirror copy both in GitHub and GitLab
+
+[![Repo on GitHub](https://img.shields.io/badge/repo-GitHub-3D76C2.svg)](https://github.com/Academany/fabzero)
+[![Repo on GitLab](https://img.shields.io/badge/repo-GitLab-6C488A.svg)](https://gitlab.fabcloud.org/fabzero/fabzero)

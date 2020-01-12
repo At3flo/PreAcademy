@@ -1,0 +1,6 @@
+temp/
+*.log
+*.aux
+*.gz
+
+.vscode/
