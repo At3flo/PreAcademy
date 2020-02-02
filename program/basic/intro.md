@@ -54,8 +54,8 @@ Academany programs are not a traditional but a **distributed education system** 
 * Graduation: Diploma vs Learning
 * Links to previous years archives and important docs
   * [Archives](http://archive.fabacademy.org)
-  * [Fab Academy Handbook](http://docs.academany.org/FabAcademy-Handbook/_book/). More than you want to know about Fab Academy
-  * [Assignments and Assessments](http://docs.academany.org/FabAcademy-Assessment/_book/). How the Fab Academy program is evaluated
+  * [Fab Academy Handbook](https://fabacademy.org/2020/docs/fabacademy-handbook/). More than you want to know about Fab Academy
+  * [Assignments and Assessments](http://fabacademy.org/2020/docs/fabacademy-assessment/). How the Fab Academy program is evaluated
 
 ### Requirements to succeed in Fab Zero
 
